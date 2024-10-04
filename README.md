@@ -28,9 +28,9 @@ alt="JS" style="width:128px;height:128px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/visualstudio/visualstudio-original.svg" style="width:128px;height:128px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/eclipse/eclipse-original.svg" style="width:128px;height:128px;">
 
-</p>
-## Profile Statistics:
 
+## Profile Statistics:
+</p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pookiloo&show_icons=true&locale=en&layout=compact&theme=transparent" alt="stats" style="margin:10px; width: 35%">
   <img src="https://github-readme-stats.vercel.app/api?username=Pookiloo&show_icons=true&theme=transparent" alt="stats" style="margin:10px;">
