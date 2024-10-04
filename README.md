@@ -5,6 +5,8 @@
 Hello! I am Reghan 👋
 I am a computer programming student at Georgian College. Currently I am focusing on enhancing my knowledge in object oriented programming and databases.<br>
 
+## Languages and Skills:
+
 ## Profile Statistics:
 
 <div align="center">
