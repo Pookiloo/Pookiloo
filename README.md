@@ -6,7 +6,7 @@ Hello! I am Reghan 👋
 I am a computer programming student at Georgian College. Currently I am focusing on enhancing my knowledge in object oriented programming and databases.<br>
 
 ## Languages and Skills:
-<br>
+<br><p align="Center" >
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-original.svg" 
 alt="CSS" style="width:128px;height:128px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original.svg" 
