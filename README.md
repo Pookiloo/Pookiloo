@@ -1,5 +1,5 @@
 <div align="center"><img src="https://github.com/Pookiloo/Pookiloo/blob/main/github-header-image.png?raw=true" style="margin:10px;"></div>
-<div style="margin:10px;">Hello! I am Reghan 👋
+<div style="margin:40px;">Hello! I am Reghan 👋
 I am a computer programming student at Georgian College. Currently I am focusing on enhancing my knowledge in object oriented programming and databases.<br>
 </div>
 <div align="center">
