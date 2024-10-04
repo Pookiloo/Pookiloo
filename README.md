@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Pookiloo/Pookiloo/blob/main/github-header-image.png?raw=true)](https://github.com/Pookiloo)<br>
+<div align="center">[![MasterHead](https://github.com/Pookiloo/Pookiloo/blob/main/github-header-image.png?raw=true)](https://github.com/Pookiloo)<br></div>
 Hello! I am Reghan 👋
 I am a computer programming student at Georgian College. Currently I am focusing on enhancing my knowledge in object oriented programming and databases.<br><br>
 <div align="center">
