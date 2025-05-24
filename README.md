@@ -11,14 +11,8 @@ I am a computer programming student at Georgian College. Currently I am focusing
 alt="CSS" style="width:64px;height:64px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original.svg" 
 alt="HTML" style="width:64px;height:64px;"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg" 
-alt="Java" style="width:64px;height:64px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/csharp/csharp-original.svg" 
-alt="C#" style="width:64px;height:64px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original.svg" 
 alt="Python" style="width:64px;height:64px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/php/php-original.svg" 
-alt="PHP"  style="width:64px;height:64px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg" 
 alt="JS" style="width:64px;height:64px;">
 </p>
